@@ -1,0 +1,30 @@
+{
+  "name": "requirejs-css",
+  "title": "requirejs-css",
+  "description": "css plugin for requirejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/leoxie/requirejs-css/wiki",
+  "author": "Leo Xie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoxie/requirejs-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leoxie/requirejs-css/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/leoxie/requirejs-css/blob/master/LICENSE.md"
+  }],
+  "categories": [
+    "Loader plugins"
+  ],
+  "main": "css.js",
+  "volo": {
+    "url": "https://github.com/leoxie/requirejs-css/{version}/css.js"
+  },
+  "keywords": [
+    "requirejs",
+    "css"
+  ]
+}
