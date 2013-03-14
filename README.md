@@ -9,7 +9,8 @@ require.config({
         //create alias to plugins (not needed if plugins are on the baseUrl)
         css: 'XXX/css',
     },
-    theme : 'theme' //default is 'default'
+    theme : 'theme', //default is 'default'
+    cssDisabled : true //default is false
 });
 
 //use plugins as if they were at baseUrl
