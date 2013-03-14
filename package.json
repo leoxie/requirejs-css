@@ -2,7 +2,7 @@
   "name": "requirejs-css",
   "title": "requirejs-css",
   "description": "css plugin for requirejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/leoxie/requirejs-css/wiki",
   "author": "Leo Xie",
   "repository": {
