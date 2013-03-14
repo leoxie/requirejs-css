@@ -19,7 +19,7 @@ define(['module'], function(module) {
 
         load: function(name, req, onLoad, config) {
             config = config || {};
-            if (config.isBuild) {
+            if (config.isBuild || config.cssDisabled) {
                 onLoad();
                 return;
             }
